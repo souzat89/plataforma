@@ -36,7 +36,7 @@ function getClient(): Resend | null {
 // ---------------------------------------------------------------------------
 
 /** Visible sender — must match a verified domain in Resend */
-export const EMAIL_FROM = "Hyppado <suporte@hyppado.com>";
+export const EMAIL_FROM = "Hyppado <contato@mindigital.net.br>";
 
 /** Reply-to address — routes replies to the support mailbox */
 export const EMAIL_REPLY_TO = "suportehyppado@gmail.com";
